@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello everyone 👋
+
+⚡ I'm Gastón and I'm from Buenos aires, Argentina 🇦🇷 (South America). I’m a student 👨‍💻 in Universidad de Lanús (Bachelor degree of Systems). 
+
+💻 My code is focused on 🌐 Web Development, Frontend with Javascript, mainly Vue.js and backend with Node.js. I use frameworks like Bootstrap and Materialize for frontend and Express in the backend for API's REST.
+
+- 🔭 I’m currently working on my own projects to reinforce my knowledge and to get a first job as a developer
+- 📫 How to reach me: 
+- [Linkedin](https://www.linkedin.com/in/gast%C3%B3n-martinez-a2189a1a2/)
+- email: gastonm3112@gmail.com
+
+- 😄 Pronouns: He / Him
+
+- Below are some highlited projects:
 
 <!--
 **gastonm3112/gastonm3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
