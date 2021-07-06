@@ -2,7 +2,9 @@
 
 ⚡ I'm Gastón and I'm from Buenos aires, Argentina 🇦🇷 (South America). I’m a student 👨‍💻 in Universidad de Lanús (Bachelor degree of Systems). 
 
-💻 My code is focused on 🌐 Web Development, Frontend with Javascript, mainly Vue.js and backend with Node.js. I use frameworks like Bootstrap and Materialize for frontend and Express in the backend for API's REST.
+💻 My code is focused on 🌐 Web Development, Backend with Node.js. I use frameworks like Express for API's REST.
+I use tools like Git, Gitflow to manage my projects
+Also, Mongoose to work with MongoDB, JWT for authentications, etc.
 
  🔭 I’m currently working on my own projects to reinforce my knowledge and to get a first job as a developer
  
