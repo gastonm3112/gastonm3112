@@ -4,9 +4,10 @@
 
 💻 My code is focused on 🌐 Web Development, Backend with Node.js. I use frameworks like Express for API's REST.
 I use tools like Git, Gitflow to manage my projects
-Also, Mongoose to work with MongoDB, JWT for authentications, etc.
+Also, Mongoose to work with MongoDB, JWT for authentications, and more tools...
 
- 🔭 I’m currently working on my own projects to reinforce my knowledge and to get a first job as a developer
+
+ 🔭 I’m currently learning Typescript! 
  
  📫 How to reach me: 
 - [Linkedin](https://www.linkedin.com/in/gast%C3%B3n-martinez-a2189a1a2/)
