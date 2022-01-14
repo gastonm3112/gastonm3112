@@ -2,12 +2,7 @@
 
 ⚡ I'm Gastón and I'm from Buenos aires, Argentina 🇦🇷 (South America). I’m a student 👨‍💻 in Universidad de Lanús (Bachelor degree of Systems). 
 
-💻 My code is focused on 🌐 Web Development, Backend with Node.js. I use frameworks like Express for API's REST.
-I use tools like Git, Gitflow to manage my projects
-Also, Mongoose to work with MongoDB, JWT for authentications, and more tools...
-
-
- 🔭 I’m currently learning Typescript! 
+⚡I work whitin EY as a NoSQL Engineer since 2021!⚡ 
  
  📫 How to reach me: 
 - [Linkedin](https://www.linkedin.com/in/gast%C3%B3n-martinez-a2189a1a2/)
