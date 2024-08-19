@@ -2,7 +2,7 @@
 
 ⚡ I'm Gastón and I'm from Buenos aires, Argentina 🇦🇷 (South America). I’m a student 👨‍💻 in Universidad de Lanús (Bachelor degree of Systems). 
 
-⚡I work whitin EY as a NoSQL Engineer since 2021!⚡ 
+⚡I work whitin EY as a DevOps Engineer since 2021!⚡ 
  
  📫 How to reach me: 
 - [Linkedin](https://www.linkedin.com/in/gast%C3%B3n-martinez-a2189a1a2/)
